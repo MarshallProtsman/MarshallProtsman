@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarshallProtsman
-- 👀 I’m interested in having computers do the annoying stuff
+- 👀 I’m interested in having computers do the hard stuff
 - 🌱 I’m currently learning GraphQL
 
 <!---
